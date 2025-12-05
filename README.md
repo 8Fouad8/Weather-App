@@ -105,8 +105,6 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 ![2](https://github.com/user-attachments/assets/3388d7b3-ab14-4a0f-86c6-45005b235830)
 
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👤 Author
 
 **8Fouad8** - [GitHub Profile](https://github.com/8Fouad8)
