@@ -99,7 +99,11 @@ This project follows the **BLoC (Business Logic Component)** architectural patte
 
 Contributions are welcome! Feel free to submit pull requests or open issues for bugs and feature requests.
 
-## 📝 License
+## 📝 Screemshots
+
+![1](https://github.com/user-attachments/assets/a6d8a08c-adaa-4e94-8979-4b801e8aa66b)
+![2](https://github.com/user-attachments/assets/3388d7b3-ab14-4a0f-86c6-45005b235830)
+
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
